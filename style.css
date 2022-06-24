@@ -14,6 +14,18 @@ header {
 
 }
 
+p { width: 1200px;
+    margin: 0 auto;
+    font-size: 19px;
+
+}
+
+#li-1 {
+    width: 1200px;
+    margin: 0 auto;
+    font-size: 19px;
+}
+
 .img-1 {
 height: 78%;
 width: 20%;
